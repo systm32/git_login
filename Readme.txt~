@@ -1,0 +1,10 @@
+Author : Rajat Bajaj
+Author Email : rajatbajaj56@gmail.com
+
+===========================Description=============================
+This is a small project using whitch you can access any github page using python requests which you can access after login in github .
+
+===========================Setup=================================== 
+1. Open the github_login.py and set your github username and password and Save It .
+2. Set the proxy to None if not required or change according to your requirement .
+3. So to get the login sessions just import github_login module and call the getLoginSession function which provide you the login cookies which helps you access any github page .
